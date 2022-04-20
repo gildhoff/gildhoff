@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gildhoff
-- 📫 You can reach me at https://hinnerk.gildhoff.com
+- 📫 You can reach me at http://hinnerk.gildhoff.com
 
 <!---
 gildhoff/gildhoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
